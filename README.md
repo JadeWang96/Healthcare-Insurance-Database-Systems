@@ -1,7 +1,7 @@
 # Health Insurance Database System
 
 ## I. Authors
-Liangbin Zhu, Yujue Wang
+[Liangbin Zhu](https://github.com/liabenny), [Yujue Wang](https://github.com/JadeWang96)
 
 ## II. Dataset
 Data Source: [The Centers for Medicare & Medicaid Services (CMS) ](https://www.cms.gov/cciio/resources/data-resources/marketplace-puf)
