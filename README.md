@@ -54,7 +54,7 @@ pip3 install <package-name>
 6. application.py
 7. database.py
 
-### IV. Data Loading
+## IV. Data Loading
 #### Working Directory
 - Datasets: ./2020-dataset/*.csv
 - Python Files: 
